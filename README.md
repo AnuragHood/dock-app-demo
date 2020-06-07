@@ -13,5 +13,3 @@ In this article, we are going to build a PWA from scratch with HTML, CSS, and Ja
 - Register the Service Worker
 - Final thoughts
 - Next steps
-
-

@@ -271,7 +271,7 @@ $(function () {
     $("#includedContent").load("src/html/nav.html");
 
     $('.one-time-slick').slick({
-        dots: true,
+        dots: false,
         slidesToScroll: 1,
         arrows: true,
         prevArrow: '<button type="button" data-role="none" class="slick-prev">Previous</button>',

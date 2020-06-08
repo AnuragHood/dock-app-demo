@@ -296,7 +296,7 @@ $(function () {
         }, {
             breakpoint: 300,
             settings: {
-                slidesToShow: 3,
+                slidesToShow: 2,
                 infinite: true,
             }
         }]
@@ -329,7 +329,7 @@ $(function () {
         }, {
             breakpoint: 300,
             settings: {
-                slidesToShow: 3,
+                slidesToShow: 2,
                 infinite: true,
             }
         }]

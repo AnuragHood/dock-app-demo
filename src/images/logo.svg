@@ -1,0 +1,6 @@
+<svg height="210" width="500">
+    <polygon points="100,10 40,198 190,78 10,78 160,198"
+             style="fill:#ddd;stroke:#33ACFF;stroke-width:3;fill-rule:evenodd;"/>
+    <text x="88" y="115" style="stroke:#33ACFF;stroke-width:1.5;fill-rule:evenodd;">AP</text>
+    Sorry, your browser does not support inline SVG.
+</svg>
